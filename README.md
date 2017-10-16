@@ -5,7 +5,7 @@ This repo contains a .twbx file built in Tableau Desktop 10.5.  The workbook con
 
 ### Download and install Tableau Desktop (with the Extensions API)
 
-Download and install the Extensions API version of Tableau Desktop from the Tableau Extensions API Developer Preview site. Under Resources, click Extensions API Software Downloads.
+Download and install the Extensions API version of Tableau Desktop from the [Tableau Extensions API Developer Preview] (https://prerelease.tableau.com/home.html?welcome) site. Under Resources, click Extensions API Software Downloads.
 
 ### Download and install the Network Chart manifest file
 
